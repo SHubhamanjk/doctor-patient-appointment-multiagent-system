@@ -33,7 +33,7 @@ An intelligent appointment management system powered by LangGraph and multi-agen
 
 The system uses a **multi-agent** architecture built on LangGraph:
 
-![Multi-Agent Architecture](https://github.com/user-attachments/assets/architecture-diagram.png)
+![Multi-Agent Architecture](./agent%20structure.pngagent structure.png)
 
 **Workflow:**
 - The **Supervisor** receives user queries and routes them to specialized agents
@@ -267,3 +267,15 @@ This project is open source and available under the MIT License.
 ## 🙏 Acknowledgments
 
 Built with LangGraph's multi-agent framework for intelligent task coordination and routing.
+
+## 📞 Contact
+
+Interested in collaborating or need a production-ready multi-agent system? Feel free to reach out!
+
+- **Mobile**: +91 8002007238
+- **Email**: [shubham07kumargupta@gmail.com](mailto:shubham07kumargupta@gmail.com)
+- **LinkedIn**: [shubhamiitpatna](https://linkedin.com/in/shubhamiitpatna)
+- **GitHub**: [@SHubhamanjk](https://github.com/SHubhamanjk)
+- **Portfolio**: [shubham-exe.netlify.app](https://shubham-exe.netlify.app)
+
+For enterprise solutions, custom development, or professional inquiries, please reach out via email or LinkedIn.
