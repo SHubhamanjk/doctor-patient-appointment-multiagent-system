@@ -33,7 +33,7 @@ An intelligent appointment management system powered by LangGraph and multi-agen
 
 The system uses a **multi-agent** architecture built on LangGraph:
 
-![Multi-Agent Architecture](./agent%20structure.pngagent structure.png)
+![Multi-Agent Architecture](./agent%20structure.png)
 
 **Workflow:**
 - The **Supervisor** receives user queries and routes them to specialized agents
